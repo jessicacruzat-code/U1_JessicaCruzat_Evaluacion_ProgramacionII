@@ -1,0 +1,15 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Restaurant</string>
+
+    <!-- Nombres de los platos -->
+    <string name="pastel">Pastel de Choclo</string>
+    <string name="cazuela">Cazuela</string>
+
+    <!-- Textos generales -->
+    <string name="propina">Propina</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="total">Total</string>
+    <string name="cant">Cantidad</string>
+    <string name="comida">Comida</string>
+</resources>
